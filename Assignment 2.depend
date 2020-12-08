@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1552234882 source:d:\2nd semister grade 2\files\lec\assignment 2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+
+1552723527 source:d:\2nd semister grade 2\files\assignment 2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+
+1555413299 source:d:\2nd semister grade 2\files\assignments\a2\assignment 2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+
